@@ -2,5 +2,5 @@ homepage: "https://tanelytics.com"
 documentation: "https://github.com/taneli-salonen1/sgtm-traffic-source-medium"
 versions:
   # Latest version
-  - sha: 56f61853f17e825ccca7fffca24386dd1f77c1c6
+  - sha: 1f9e5c962bc6affd1d6fb0c873bb0b74f1ee22a7
     changeNotes: First version
